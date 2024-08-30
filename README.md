@@ -13,7 +13,6 @@ Version Control: Git
 
 ### Current Projects
 YouTube Trends Analysis Dashboard: A Tableau dashboard that visualizes YouTube trending video data, categorized by region and category.
-Food and Beverage Cost Analysis: Python scripts for analyzing cost structures and optimizing inventory in the food and beverage industry.
 
 ### Goals
 To continually improve my skills in the data analysis field.
