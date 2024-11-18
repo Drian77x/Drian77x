@@ -1,3 +1,4 @@
+![Banner](https://graduate.northeastern.edu/resources/wp-content/uploads/sites/4/2020/06/iStock-1221293664-1-1-1.jpg)
 # Welcome to my GitHub! 👋
 
 I'm **Adrian Briceño Castro**, and I'm passionate about using data to find and solve complex problems.
