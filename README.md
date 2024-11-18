@@ -1,10 +1,9 @@
-![Banner](https://graduate.northeastern.edu/resources/wp-content/uploads/sites/4/2020/06/iStock-1221293664-1-1-1.jpg)
 # Welcome to my GitHub! 👋
 
 I'm **Adrian Briceño Castro**, and I'm passionate about using data to find and solve complex problems.
 
 ## About Me
-With more than 10 years in the **food and beverage sector**, I honed my skills in **inventory management**, **cost control**, and **data analysis** in high-pressure environments. I'm now focused on expanding my expertise in **data analysis** and applying it across different industries.
+Passionate about data analysis, I have developed strong skills in key tools such as PowerBI, Python, Tableau, and SQL, which I use to extract and analyze valuable information that supports strategic decision-making. My focus is on transforming data into actionable insights, optimizing processes, and improving efficiency. As I transition into a Data Analyst role, I am eager to apply my analytical expertise to generate meaningful results and have a positive impact on projects.
 
 ## Tools & Technologies 🛠️
 
